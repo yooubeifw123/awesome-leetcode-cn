@@ -43,8 +43,8 @@ _题目详细解题报告_
 
 _对1000道题目分类精选_
 
-- [LeetcodeTop](https://github.com/afatcoder/LeetcodeTop)
-- [题目精选](https://github.com/yuanguangxin/LeetCode)
+- [LeetcodeTop](https://github.com/afatcoder/LeetcodeTop) - 汇总互联网公司技术岗考察Leetcode热度题目
+- [题目精选](https://github.com/yuanguangxin/LeetCode) - LeetCode题目分类与面试问题整理
 - [Leetcode-retag](https://github.com/resumejob/Leetcode-retag) - 重新分类 Leetcode 高频题 按照面试频率降序排列
 - [算法·进阶石](https://github.com/acm-clan/algorithm-stone)  - 公众号《ACM算法日常》整理的一个算法学习路线图。
 
@@ -53,10 +53,10 @@ _对1000道题目分类精选_
 
 _算法大佬的刷题笔记_
 
-- [宫水三叶的刷题日记](https://github.com/SharingSource/LogicStack-LeetCode)
+- [宫水三叶的刷题日记](https://github.com/SharingSource/LogicStack-LeetCode) - 公众号「宫水三叶的刷题日记」刷穿 LeetCode 系列文章源码
 - [剑指Offer刷题笔记](https://github.com/Jack-Cherish/LeetCode) - LeetCode、剑指Offer刷题笔记（C/C++、Python3实现）
 - [leetcode-cookbook](https://github.com/gaowenxin95/leetcode-cookbook) - leetcode上面的一些经典算法题笔记
-- [LeetCode 算法笔记](https://github.com/datawhalechina/leetcode-notes)
+- [LeetCode 算法笔记](https://github.com/datawhalechina/leetcode-notes) - leetCode 平台精选出 200 多道经典算法与数据结构题目，进行具体题目的讲解分析
 - [fishercoder1534](https://github.com/fishercoder1534/Leetcode) - 支持7种语言的刷题笔记
 - [wind-liang-leetcode](https://github.com/wind-liang/leetcode/) - java版本刷题笔记
 
