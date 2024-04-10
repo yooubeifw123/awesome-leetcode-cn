@@ -3,6 +3,9 @@
 收集分类互联网上leetcode刷题面试相关的资料，助力刷题效率快速提升~ 永久更新
 
 ### 电子书
+
+电子书系统地帮助读者掌握算法套路和数据结构
+
 - [算法通关之路](https://github.com/azl397985856/leetcode) - github四万星题解，一本搞定算法套路
 - [代码随想录](https://github.com/youngyangyang04/leetcode-master) - 200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图
 - [算法通关手册](https://github.com/itcharge/LeetCode-Py) - 超详细的算法与数据结构基础讲解教程，800+道LeetCode 题目详细解析，200道大厂面试热门题目。
@@ -37,96 +40,62 @@
 
 
 ### 题解
-[算法全解](https://github.com/doocs/leetcode)
-
-[动画题解](https://github.com/MisterBooo/LeetCodeAnimation) 用动画的形式呈现解LeetCode题目的思路
-
-[LeetCode All In One](https://github.com/grandyang/leetcode) 
-
-[动画讲算法](https://github.com/chefyuan/algorithm-base) 一位酷爱做饭的程序员，立志用动画将算法说的通俗易懂
-
-[Rust算法题解](https://github.com/rustcn-org/rust-algos)
+- [算法全解](https://github.com/doocs/leetcode)
+- [动画题解](https://github.com/MisterBooo/LeetCodeAnimation) 用动画的形式呈现解LeetCode题目的思路
+- [LeetCode All In One](https://github.com/grandyang/leetcode) 
+- [动画讲算法](https://github.com/chefyuan/algorithm-base) 一位酷爱做饭的程序员，立志用动画将算法说的通俗易懂
+- [Rust算法题解](https://github.com/rustcn-org/rust-algos)
 
 
 ### 题单
-[LeetcodeTop](https://github.com/afatcoder/LeetcodeTop)
-
-[题目精选](https://github.com/yuanguangxin/LeetCode)
-
-[Leetcode-retag](https://github.com/resumejob/Leetcode-retag) 重新分类 Leetcode 高频题 按照面试频率降序排列
-
-[算法·进阶石](https://github.com/acm-clan/algorithm-stone) 公众号《ACM算法日常》整理的一个算法学习路线图。
+- [LeetcodeTop](https://github.com/afatcoder/LeetcodeTop)
+- [题目精选](https://github.com/yuanguangxin/LeetCode)
+- [Leetcode-retag](https://github.com/resumejob/Leetcode-retag) 重新分类 Leetcode 高频题 按照面试频率降序排列
+- [算法·进阶石](https://github.com/acm-clan/algorithm-stone) 公众号《ACM算法日常》整理的一个算法学习路线图。
 
 
 ### 刷题笔记
-[宫水三叶的刷题日记](https://github.com/SharingSource/LogicStack-LeetCode)
-
-[剑指Offer刷题笔记](https://github.com/Jack-Cherish/LeetCode) LeetCode、剑指Offer刷题笔记（C/C++、Python3实现）
-
-[leetcode-cookbook](https://github.com/gaowenxin95/leetcode-cookbook) leetcode上面的一些经典算法题笔记
-
-[LeetCode 算法笔记](https://github.com/datawhalechina/leetcode-notes)
-
-[fishercoder1534](https://github.com/fishercoder1534/Leetcode) 支持7种语言的刷题笔记
-
-[wind-liang-leetcode](https://github.com/wind-liang/leetcode/) java版本刷题笔记
+- [宫水三叶的刷题日记](https://github.com/SharingSource/LogicStack-LeetCode)
+- [剑指Offer刷题笔记](https://github.com/Jack-Cherish/LeetCode) LeetCode、剑指Offer刷题笔记（C/C++、Python3实现）
+- [leetcode-cookbook](https://github.com/gaowenxin95/leetcode-cookbook) leetcode上面的一些经典算法题笔记
+- [LeetCode 算法笔记](https://github.com/datawhalechina/leetcode-notes)
+- [fishercoder1534](https://github.com/fishercoder1534/Leetcode) 支持7种语言的刷题笔记
+- [wind-liang-leetcode](https://github.com/wind-liang/leetcode/) java版本刷题笔记
 
 
 ### Java语言
-[Algorithm-Patterns](https://github.com/zdong1995/Algorithm-Patterns)
-
-[LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation)
-
-[hello-algo](https://github.com/krahets/hello-algo)
-
-[hello-algorithm](https://github.com/geekxh/hello-algorithm)
-
-[awesome-java-leetcode](https://github.com/Blankj/awesome-java-leetcode)
-
-[awangdev-leet-code](https://github.com/awangdev/leet-code)
+- [Algorithm-Patterns](https://github.com/zdong1995/Algorithm-Patterns)
+- [LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation)
+- [hello-algo](https://github.com/krahets/hello-algo)
+- [hello-algorithm](https://github.com/geekxh/hello-algorithm)
+- [awesome-java-leetcode](https://github.com/Blankj/awesome-java-leetcode)
+- [awangdev-leet-code](https://github.com/awangdev/leet-code)
 
 
 ### Python语言
-[qiyuangong](https://github.com/qiyuangong/leetcode)
-
-[LeetCode-Py](https://github.com/itcharge/LeetCode-Py)
-
-[AlgorithmsByPython](https://github.com/Jack-Lee-Hiter/AlgorithmsByPython)
-
-[lc-all-solutions](https://github.com/csujedihy/lc-all-solutions)
-
-[DSAlgo](https://github.com/SamirPaulb/DSAlgo)
+- [qiyuangong](https://github.com/qiyuangong/leetcode)
+- [LeetCode-Py](https://github.com/itcharge/LeetCode-Py)
+- [AlgorithmsByPython](https://github.com/Jack-Lee-Hiter/AlgorithmsByPython)
+- [lc-all-solutions](https://github.com/csujedihy/lc-all-solutions)
+- [DSAlgo](https://github.com/SamirPaulb/DSAlgo)
 
 
 ### C++语言
-[haoel](https://github.com/haoel/leetcode)
-
-[algorithms_and_data_structures](https://github.com/mandliya/algorithms_and_data_structures)
-
-[LeetCode-Solutions](https://github.com/kamyu104/LeetCode-Solutions)
-
-[Play-Leetcode](https://github.com/liuyubobobo/Play-Leetcode)
+- [haoel](https://github.com/haoel/leetcode)
+- [algorithms_and_data_structures](https://github.com/mandliya/algorithms_and_data_structures)
+- [LeetCode-Solutions](https://github.com/kamyu104/LeetCode-Solutions)
+- [Play-Leetcode](https://github.com/liuyubobobo/Play-Leetcode)
 
 
 ### JavaScript语言
-[azl397985856](https://github.com/azl397985856/leetcode)
-
-[Algorithms-Leetcode-Javascript](https://github.com/ignacio-chiazzo/Algorithms-Leetcode-Javascript)
-
-[leetcode-js](https://github.com/everthis/leetcode-js)
+- [azl397985856](https://github.com/azl397985856/leetcode)
+- [Algorithms-Leetcode-Javascript](https://github.com/ignacio-chiazzo/Algorithms-Leetcode-Javascript)
+- [leetcode-js](https://github.com/everthis/leetcode-js)
 
 
 ### Go语言
-[LeetCode-Go](https://github.com/halfrost/LeetCode-Go)
-
-[codeforces-go](https://github.com/EndlessCheng/codeforces-go)
-
-[awesome-golang-algorithm](https://github.com/6boris/awesome-golang-algorithm)
-
-[LeetCode-in-Go](https://github.com/aQuaYi/LeetCode-in-Go)
-
-[go-leetcode](https://github.com/austingebauer/go-leetcode)
-
-
-
-
+- [LeetCode-Go](https://github.com/halfrost/LeetCode-Go)
+- [codeforces-go](https://github.com/EndlessCheng/codeforces-go)
+- [awesome-golang-algorithm](https://github.com/6boris/awesome-golang-algorithm)
+- [LeetCode-in-Go](https://github.com/aQuaYi/LeetCode-in-Go)
+- [go-leetcode](https://github.com/austingebauer/go-leetcode)
