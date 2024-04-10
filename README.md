@@ -4,7 +4,7 @@
 
 ### 电子书
 
-电子书系统地帮助读者掌握算法套路和数据结构
+_电子书系统地帮助读者掌握算法套路和数据结构_
 
 - [算法通关之路](https://github.com/azl397985856/leetcode) - github四万星题解，一本搞定算法套路
 - [代码随想录](https://github.com/youngyangyang04/leetcode-master) - 200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图
@@ -16,9 +16,15 @@
 - [算法模板](https://github.com/greyireland/algorithm-pattern) - 算法模板，最科学的刷题方式，最快速的刷题路径
 
 ### App
+
+_App官方下载地址_
+
 ![下载二维码](https://pic.ziyuan.wang/user/guest/2024/04/2024-04-10_16-00_f844e568d0c18.png)
 
 ### 小程序
+
+_体验最好的小程序_
+
 ![小程序二维码](https://zdsfiles.oss-cn-beijing.aliyuncs.com/%E6%89%AB%E7%A0%81_%E6%90%9C%E7%B4%A2%E8%81%94%E5%90%88%E4%BC%A0%E6%92%AD%E6%A0%B7%E5%BC%8F-%E6%A0%87%E5%87%86%E8%89%B2%E7%89%881.png)
 
 ### 在线课程
