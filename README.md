@@ -1,8 +1,9 @@
 # awesome-leetcode-cn
 
+收集分类互联网上leetcode刷题面试相关的资料，助力刷题效率快速提升~ 永久更新
 
 ### 电子书
-[算法通关之路](https://github.com/azl397985856/leetcode)
+- [算法通关之路](https://github.com/azl397985856/leetcode) 
 
 [代码随想录](https://github.com/youngyangyang04/leetcode-master) 200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图
 
