@@ -46,9 +46,9 @@ _体验最好的小程序_
 ### 题解
 - [算法全解](https://github.com/doocs/leetcode)
 - [动画题解](https://github.com/MisterBooo/LeetCodeAnimation) 用动画的形式呈现解LeetCode题目的思路
-- [LeetCode All In One](https://github.com/grandyang/leetcode) 
+- [LeetCode All In One](https://github.com/grandyang/leetcode) - Grandyang刷尽天下，leetcode题目详解
 - [动画讲算法](https://github.com/chefyuan/algorithm-base) 一位酷爱做饭的程序员，立志用动画将算法说的通俗易懂
-- [Rust算法题解](https://github.com/rustcn-org/rust-algos)
+- [Rust算法题解](https://github.com/rustcn-org/rust-algos) - 用Rust语言实现常见的算法和数据结构，以及leetcode题解
 
 
 ### 题单
