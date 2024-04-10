@@ -27,27 +27,12 @@ _体验最好的小程序_
 
 ![小程序二维码](https://zdsfiles.oss-cn-beijing.aliyuncs.com/%E6%89%AB%E7%A0%81_%E6%90%9C%E7%B4%A2%E8%81%94%E5%90%88%E4%BC%A0%E6%92%AD%E6%A0%B7%E5%BC%8F-%E6%A0%87%E5%87%86%E8%89%B2%E7%89%881.png)
 
-### 在线课程
-    AWC算法系列课
-    左程云的算法通关课
-    九章算法班入门到精通
-    九章算法算法基础
-    九章算法算法强化
-    九章算法系统提升
-    百战程序员算法就业班
-    算法训练营
-    算法与数据结构零基础全阶班
-    Java数据结构与算法专项
-    算法面试通关40讲
-    数据结构与算法之美
-    算法与数据结构全阶班
-
 
 ### 题解
 
 _题目详细解题报告_
 
-- [算法全解](https://github.com/doocs/leetcode)
+- [算法全解](https://github.com/doocs/leetcode) - 多种编程语言实现 LeetCode、《剑指 Offer（第 2 版）》、《程序员面试金典（第 6 版）》题解
 - [动画题解](https://github.com/MisterBooo/LeetCodeAnimation) - 用动画的形式呈现解LeetCode题目的思路
 - [LeetCode All In One](https://github.com/grandyang/leetcode) - Grandyang刷尽天下，leetcode题目详解
 - [动画讲算法](https://github.com/chefyuan/algorithm-base) - 一位酷爱做饭的程序员，立志用动画将算法说的通俗易懂
@@ -106,3 +91,22 @@ _题目详细解题报告_
 - [awesome-golang-algorithm](https://github.com/6boris/awesome-golang-algorithm)
 - [LeetCode-in-Go](https://github.com/aQuaYi/LeetCode-in-Go)
 - [go-leetcode](https://github.com/austingebauer/go-leetcode)
+
+### 在线课程
+
+_各大课程网站的知名算法课程_
+
+    AWC算法系列课
+    左程云的算法通关课
+    九章算法班入门到精通
+    九章算法算法基础
+    九章算法算法强化
+    九章算法系统提升
+    百战程序员算法就业班
+    算法训练营
+    算法与数据结构零基础全阶班
+    Java数据结构与算法专项
+    算法面试通关40讲
+    数据结构与算法之美
+    算法与数据结构全阶班
+
