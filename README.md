@@ -1,10 +1,7 @@
 # awesome-leetcode-cn
 
 
-https://github.com/yooubeifw123/awesome-leetcode-cn
-
-
-## 电子书
+### 电子书
 [算法通关之路](https://github.com/azl397985856/leetcode)
 
 [代码随想录](https://github.com/youngyangyang04/leetcode-master) 200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图
@@ -22,14 +19,14 @@ https://github.com/yooubeifw123/awesome-leetcode-cn
 [算法模板](https://github.com/greyireland/algorithm-pattern) 算法模板，最科学的刷题方式，最快速的刷题路径，
 
 
-## App 
+### App 
 [下载地址](https://leetcode.cn/app/)
 
 
-## 小程序
+### 小程序
 ![小程序二维码](https://zdsfiles.oss-cn-beijing.aliyuncs.com/%E6%89%AB%E7%A0%81_%E6%90%9C%E7%B4%A2%E8%81%94%E5%90%88%E4%BC%A0%E6%92%AD%E6%A0%B7%E5%BC%8F-%E6%A0%87%E5%87%86%E8%89%B2%E7%89%881.png)
 
-## 在线课程
+### 在线课程
     AWC算法系列课
     左程云的算法通关课
     九章算法班入门到精通
@@ -45,7 +42,7 @@ https://github.com/yooubeifw123/awesome-leetcode-cn
     算法与数据结构全阶班
 
 
-## 题解
+### 题解
 [算法全解](https://github.com/doocs/leetcode)
 
 [动画题解](https://github.com/MisterBooo/LeetCodeAnimation) 用动画的形式呈现解LeetCode题目的思路
@@ -57,7 +54,7 @@ https://github.com/yooubeifw123/awesome-leetcode-cn
 [Rust算法题解](https://github.com/rustcn-org/rust-algos)
 
 
-## 题单
+### 题单
 [LeetcodeTop](https://github.com/afatcoder/LeetcodeTop)
 
 [题目精选](https://github.com/yuanguangxin/LeetCode)
@@ -67,7 +64,7 @@ https://github.com/yooubeifw123/awesome-leetcode-cn
 [算法·进阶石](https://github.com/acm-clan/algorithm-stone) 公众号《ACM算法日常》整理的一个算法学习路线图。
 
 
-## 刷题笔记
+### 刷题笔记
 [宫水三叶的刷题日记](https://github.com/SharingSource/LogicStack-LeetCode)
 
 [剑指Offer刷题笔记](https://github.com/Jack-Cherish/LeetCode) LeetCode、剑指Offer刷题笔记（C/C++、Python3实现）
@@ -81,7 +78,7 @@ https://github.com/yooubeifw123/awesome-leetcode-cn
 [wind-liang-leetcode](https://github.com/wind-liang/leetcode/) java版本刷题笔记
 
 
-## Java语言
+### Java语言
 [Algorithm-Patterns](https://github.com/zdong1995/Algorithm-Patterns)
 
 [LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation)
@@ -95,7 +92,7 @@ https://github.com/yooubeifw123/awesome-leetcode-cn
 [awangdev-leet-code](https://github.com/awangdev/leet-code)
 
 
-## Python语言
+### Python语言
 [qiyuangong](https://github.com/qiyuangong/leetcode)
 
 [LeetCode-Py](https://github.com/itcharge/LeetCode-Py)
@@ -107,7 +104,7 @@ https://github.com/yooubeifw123/awesome-leetcode-cn
 [DSAlgo](https://github.com/SamirPaulb/DSAlgo)
 
 
-## C++语言
+### C++语言
 [haoel](https://github.com/haoel/leetcode)
 
 [algorithms_and_data_structures](https://github.com/mandliya/algorithms_and_data_structures)
@@ -117,7 +114,7 @@ https://github.com/yooubeifw123/awesome-leetcode-cn
 [Play-Leetcode](https://github.com/liuyubobobo/Play-Leetcode)
 
 
-## JavaScript语言
+### JavaScript语言
 [azl397985856](https://github.com/azl397985856/leetcode)
 
 [Algorithms-Leetcode-Javascript](https://github.com/ignacio-chiazzo/Algorithms-Leetcode-Javascript)
@@ -125,7 +122,7 @@ https://github.com/yooubeifw123/awesome-leetcode-cn
 [leetcode-js](https://github.com/everthis/leetcode-js)
 
 
-## Go语言
+### Go语言
 [LeetCode-Go](https://github.com/halfrost/LeetCode-Go)
 
 [codeforces-go](https://github.com/EndlessCheng/codeforces-go)
