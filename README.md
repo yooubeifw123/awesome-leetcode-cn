@@ -40,22 +40,31 @@ _题目详细解题报告_
 
 
 ### 题单
+
+_对1000道题目分类精选_
+
 - [LeetcodeTop](https://github.com/afatcoder/LeetcodeTop)
 - [题目精选](https://github.com/yuanguangxin/LeetCode)
-- [Leetcode-retag](https://github.com/resumejob/Leetcode-retag) 重新分类 Leetcode 高频题 按照面试频率降序排列
-- [算法·进阶石](https://github.com/acm-clan/algorithm-stone) 公众号《ACM算法日常》整理的一个算法学习路线图。
+- [Leetcode-retag](https://github.com/resumejob/Leetcode-retag) - 重新分类 Leetcode 高频题 按照面试频率降序排列
+- [算法·进阶石](https://github.com/acm-clan/algorithm-stone)  - 公众号《ACM算法日常》整理的一个算法学习路线图。
 
 
 ### 刷题笔记
+
+_算法大佬的刷题笔记_
+
 - [宫水三叶的刷题日记](https://github.com/SharingSource/LogicStack-LeetCode)
-- [剑指Offer刷题笔记](https://github.com/Jack-Cherish/LeetCode) LeetCode、剑指Offer刷题笔记（C/C++、Python3实现）
-- [leetcode-cookbook](https://github.com/gaowenxin95/leetcode-cookbook) leetcode上面的一些经典算法题笔记
+- [剑指Offer刷题笔记](https://github.com/Jack-Cherish/LeetCode) - LeetCode、剑指Offer刷题笔记（C/C++、Python3实现）
+- [leetcode-cookbook](https://github.com/gaowenxin95/leetcode-cookbook) - leetcode上面的一些经典算法题笔记
 - [LeetCode 算法笔记](https://github.com/datawhalechina/leetcode-notes)
-- [fishercoder1534](https://github.com/fishercoder1534/Leetcode) 支持7种语言的刷题笔记
-- [wind-liang-leetcode](https://github.com/wind-liang/leetcode/) java版本刷题笔记
+- [fishercoder1534](https://github.com/fishercoder1534/Leetcode) - 支持7种语言的刷题笔记
+- [wind-liang-leetcode](https://github.com/wind-liang/leetcode/) - java版本刷题笔记
 
 
 ### Java语言
+
+_Java语言代码实现_
+
 - [Algorithm-Patterns](https://github.com/zdong1995/Algorithm-Patterns)
 - [LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation)
 - [hello-algo](https://github.com/krahets/hello-algo)
@@ -65,6 +74,9 @@ _题目详细解题报告_
 
 
 ### Python语言
+
+_Python语言代码实现_
+
 - [qiyuangong](https://github.com/qiyuangong/leetcode)
 - [LeetCode-Py](https://github.com/itcharge/LeetCode-Py)
 - [AlgorithmsByPython](https://github.com/Jack-Lee-Hiter/AlgorithmsByPython)
@@ -73,6 +85,9 @@ _题目详细解题报告_
 
 
 ### C++语言
+
+_C++语言代码实现_
+
 - [haoel](https://github.com/haoel/leetcode)
 - [algorithms_and_data_structures](https://github.com/mandliya/algorithms_and_data_structures)
 - [LeetCode-Solutions](https://github.com/kamyu104/LeetCode-Solutions)
@@ -80,12 +95,18 @@ _题目详细解题报告_
 
 
 ### JavaScript语言
+
+_JavaScript语言代码实现_
+
 - [azl397985856](https://github.com/azl397985856/leetcode)
 - [Algorithms-Leetcode-Javascript](https://github.com/ignacio-chiazzo/Algorithms-Leetcode-Javascript)
 - [leetcode-js](https://github.com/everthis/leetcode-js)
 
 
 ### Go语言
+
+_Go语言代码实现_
+
 - [LeetCode-Go](https://github.com/halfrost/LeetCode-Go)
 - [codeforces-go](https://github.com/EndlessCheng/codeforces-go)
 - [awesome-golang-algorithm](https://github.com/6boris/awesome-golang-algorithm)
