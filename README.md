@@ -4,19 +4,12 @@
 
 ### 电子书
 - [算法通关之路](https://github.com/azl397985856/leetcode) - github四万星题解，一本搞定算法套路
-
 - [代码随想录](https://github.com/youngyangyang04/leetcode-master) - 200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图
-
 - [算法通关手册](https://github.com/itcharge/LeetCode-Py) - 超详细的算法与数据结构基础讲解教程，800+道LeetCode 题目详细解析，200道大厂面试热门题目。
-
 - [LeetCode刷题模板](https://github.com/ninechapter-algorithm/leetcode-linghu-templete) - 北大学霸令狐冲总结的LeetCode算法模板
-
 - [labuladong 的算法小抄](https://github.com/labuladong/fucking-algorithm) - 面试全靠模板，刷题全靠套路
-
 - [小浩学算法](https://github.com/geekxh/hello-algorithm) - 针对小白的完整的算法训练流程
-
 - [LeetCode 101](https://github.com/changgyhub/leetcode_101) - 谷歌无人车工程师高分刷题笔记
-
 - [算法模板](https://github.com/greyireland/algorithm-pattern) - 算法模板，最科学的刷题方式，最快速的刷题路径
 
 
